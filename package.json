@@ -1,0 +1,19 @@
+{
+  "name": "tiff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exif-js": "^2.3.0",
+    "geotiff": "^2.1.0",
+    "proj4": "^2.9.2",
+    "tiff.js": "^1.0.0"
+  }
+}
